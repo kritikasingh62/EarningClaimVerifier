@@ -1,0 +1,2386 @@
+{
+  "claims": [
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Co. reported 1Q17 revenues of $78.4b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "1. 1Q17 revenue = $78.4b"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Co. reported 1Q17 net income of $17.9b"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "2. 1Q17 net income = $17.9b"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "3. 1Q17 diluted EPS = $3.36"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": "null",
+      "evidence_text": "4. 1Q17 GM = 38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "5. 1Q17-end cash plus marketable securities = $246.1b"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "6. 1Q17 share repurchase = 44.3m AAPL shares for $5b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Expects 2Q17 revenues to be $51.5-53.5b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Revenue almost $7.2b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Revenue almost $7.2b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "App Store customers broke all-time records, including $3b in purchases in Dec. alone making it the App Store's single best month ever."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "App Store customers broke all-time records, including $3b in purchases in Dec. alone making it the App Store's single best month ever."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Co.'s developer community has now earned over $60b, including over $20b in 2016 alone."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Co.'s developer community has now earned over $60b, including over $20b in 2016 alone."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Apple Pay continued its strong momentum, with number of users more than tripling over past year, and hundreds of millions of transactions and billions of dollars in purchases in Dec. qtr. alone."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Apple Pay continued its strong momentum, with number of users more than tripling over past year, and hundreds of millions of transactions and billions of dollars in purchases in Dec. qtr. alone."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Transaction volume up over 500% YoverY as Co. expanded to four new countries including Japan, Russia, New Zealand and Spain, bringing AAPL into a total of 13 markets."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Transaction volume up over 500% YoverY as Co. expanded to four new countries including Japan, Russia, New Zealand and Spain, bringing AAPL into a total of 13 markets."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Nearly 2m small businesses are accepting invoice payments with Apple Pay through Intuit QuickBooks Online, FreshBooks and other billing partners."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Nearly 2m small businesses are accepting invoice payments with Apple Pay through Intuit QuickBooks Online, FreshBooks and other billing partners."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services are becoming a larger part of business."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Best qtr. ever for Apple Watch, units and revenues, with holiday demand so strong that Co. couldn't make enough."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Best qtr. ever for Apple Watch, units and revenues, with holiday demand so strong that Co. couldn't make enough."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "5. Co. was supply constraint for new MacBook Pro throughout Dec. qtr. and just now coming into supply-demand balance."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "There are well over 1m people using CarPlay now and this continues to grow rapidly."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "$78.4b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Highest quarterly revenue in Co.'s history."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Above guidance range."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "new revenue records for iPhone, Services, Mac and Apple Watch."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "new all-time revenue records in most developed and emerging markets with strong growth rates in many countries, including US, Japan, Canada, France, Australia, Brazil, India, Turkey and Russia."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Total Greater China segment revenue down 12%, but revenue from mainland China was even with all-time record results from a year ago and grew in constant-currency terms."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "generated all-time quarterly record results."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Has benefit of 14th week, but this was offset by four factors."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "grew channel inventory significantly less than a year ago."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "iPhone 7 launched earlier in Sept. qtr. vs. iPhone 6s launch the previous year, creating more difficult comparison for Dec. qtr. this year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Stronger US dollar affected total revenue growth this year by 100 BP."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Year ago revenue included benefit of one-off $548m patent infringement payment."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Strong customer interest left Co. in supply-demand imbalance for several products throughout qtr. this year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "GM 38.5%."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "At high-end of guidance range."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Operating margin 29.8% of revenue."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Net income $17.9b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Diluted EPS $3.36."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "New all-time record."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Cash flow from operations $27.1b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "new revenue records for iPhone, Services, Mac and Apple Watch."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "new all-time revenue records in most developed and emerging markets with strong growth rates in many countries, including US, Japan, Canada, France, Australia, Brazil, India, Turkey and Russia."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "generated all-time quarterly record results."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Has benefit of 14th week, but this was offset by four factors."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "grew channel inventory significantly less than a year ago."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "iPhone 7 launched earlier in Sept. qtr. vs. iPhone 6s launch the previous year, creating more difficult comparison for Dec. qtr. this year."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Stronger US dollar affected total revenue growth this year by 100 BP."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Year ago revenue included benefit of one-off $548m patent infringement payment."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Strong customer interest left Co. in supply-demand imbalance for several products throughout qtr. this year."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "GM 38.5%."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "At high-end of guidance range."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Operating margin 29.8% of revenue."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Net income $17.9b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Diluted EPS $3.36."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "New all-time record."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Cash flow from operations $27.1b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "new revenue records for iPhone, Services, Mac and Apple Watch."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue $7.2b; all-time record."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 18% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 18% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Saw double-digit iPhone growth in US, Canada, Western Europe, Japan and Australia, and even stronger growth in many emerging markets, including Brazil, Turkey, Russia, Central and Eastern Europe, and Vietnam."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue $51.5-53.5b."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$246.1b, sequential increase of $8.5b."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$230.2b of this cash or 94% of total was outside US."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$77.1b in term debt"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$10.5b in commercial paper outstanding"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Returned almost $15b to investors for capital return activities."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3.1b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $5b on repurchases of 44.3m AAPL shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Launched new $6b ASR, resulting in initial delivery and retirement of 44.8m shares."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Completed eighth accelerated share repurchase program, retiring additional 4.4m shares."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "This led to net diluted share count reduction of 65.3m shares."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Now completed $201b of current $250b capital return program, including $144b in share repurchases."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Effective tax rate 26%, as expected."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$51.5-53.5b."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Includes $1.2b YoverY headwind from FX."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "GM 38-39%"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncome",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OpEx $6.5-6.6b"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncome",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OpEx $6.5-6.6b"
+    },
+    {
+      "sec_metric": "us-gaap:IncomeBeforeTax",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OI&E about $400m"
+    },
+    {
+      "sec_metric": "us-gaap:TaxRate",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Tax rate about 26%"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "On 01/31/17, Board of Directors has declared cash dividend of $0.57 per share of common stock"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "So obviously if the dollar is a little less strong than it is today, we could do a bit better on gross margins."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:LiabilitiesCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we acquired 15-20 companies per year for the last four years"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we acquired 15-20 companies per year for the last four years"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareBasic",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we acquired 15-20 companies per year for the last four years"
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we acquired 15-20 companies per year for the last four years"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Services business which was up 18% year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "It's going to be a Fortune 100 company this year, but we have a goal to double it over the next four years."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our Greater China revenue was down 12%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We set a new record for Services in China as the company did."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "And Mac revenue was up double digit year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "iPad units were also up double digit in Mainland China which was obviously different than the trend that we saw in the balance of the world."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "50% of our iPhone sales in China were to switchers and first time buyers, which is a very high number that we're pleased with."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our total install base continues to grow there in the strong double digits."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the currency has devalued 6% year-over-year,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We also saw 50% of our iPhone sales in China were to switchers and first time buyers, which is a very high number that we're pleased with."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "our total install base continues to grow there in the strong double digits."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the currency has devalued 6% year-over-year,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Hong Kong remains a very, very difficult market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "although I do like many, many things that I've seen and how broad-based the pluses were across our product line."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "doubling within the next four years,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "as you grow your Services business, is there anything we should keep in mind from a margin perspective?"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we grew 43%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we grew own more for the quarter"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "we see the amount spent per paid account growing so well"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "we see the amount spent per paid account growing so well"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we see great growth in places like China for example"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we see great growth in places like China for example"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we can do better"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we can do better"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we can grow, for example, our developer community in a number of emerging markets"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we can grow, for example, our developer community in a number of emerging markets"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we think that the App Store is going to be a significant driver of growth"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we think that the App Store is going to be a significant driver of growth"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we've been able to bring our music business back to growth"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we've been able to bring our music business back to growth"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we've grown over the last three quarters"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we've grown over the last three quarters"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we feel very good about that"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we feel very good about that"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we've had very good success with exclusives"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "we've had very good success with exclusives"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "so we know that it's another business that we can grow"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "so we know that it's another business that we can grow"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "Our iCloud storage business is growing very quickly"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "Our iCloud storage business is growing very quickly"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "and so that is a business that also at the geographic level we can continue to grow significantly"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "and so that is a business that also at the geographic level we can continue to grow significantly"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "Our AppleCare business is growing very well"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "Our AppleCare business is growing very well"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "a lot of it comes from the fact that our install base of devices around the world continues to grow very well"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "a lot of it comes from the fact that our install base of devices around the world continues to grow very well"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "from double digits"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "from double digits"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "and as we've explained in the past"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "null",
+      "evidence_text": "and as we've explained in the past"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "in emerging markets actually doing pretty well this quarter"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "in aggregate, our Services business tends to have margins that are above company averages"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "different margin percentages"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the dollar has strengthened 25% against the basket of currencies where we do business"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "a difficult situation for us"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We were actually at the high end of the range for gross margins."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sales obviously beat the high end of your revenue range,"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "We had guided 38 to 38.5, and we came in at 38.5 exactly."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "We got a bit more leverage out of the increased revenue levels."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "we had all-time record revenue results"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "6% constant currency increase in revenue in Mainland China"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double digit increase in iPad and MacBook"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "6% constant currency increase in revenue in Mainland China"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the highest that we've seen in any quarter"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the highest that we've seen in any quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the most popular Plus model that we've ever had"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I think iPhone units on a sell-through basis were up about 8%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "making all those adjustments it looks like iPhone units were probably up low single digits"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "verbatim quote"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "When we look at it geographically, I think we see different developments."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "You've been quoting an overall total company growth rate,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the fact that annual upgrade programs are becoming more and more popular is proving to be a positive for us."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Same happened in a number of countries around the world starting with Canada and Australia,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "but also many places in Western Europe as well."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Japan grew double digits in terms of units."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "So I think geographically, we are seeing very, very good performance,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "and the point that I think I need to make when you think about upgrade rates,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "clearly this issue of the strong dollar doesn't help us."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Could we sell significantly more or significantly faster from an upgrade cycle standpoint in places outside the United States where we've had,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we've been forced to increase prices by up to 20%, 30%, 40% in certain countries?"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "When you think about the impact that this is having on local demand,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "obviously, that doesn't help us."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the fact that annual upgrade programs are becoming more and more popular is proving to be a positive for us."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Same happened in a number of countries around the world starting with Canada and Australia,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "but also many places in Western Europe as well."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Japan grew double digits in terms of units."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "So I think geographically, we are seeing very, very good performance,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "and the point that I think I need to make when you think about upgrade rates,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "clearly this issue of the strong dollar doesn't help us."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Could we sell significantly more or significantly faster from an upgrade cycle standpoint in places outside the United States where we've had,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we've been forced to increase prices by up to 20%, 30%, 40% in certain countries?"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "When you think about the impact that this is having on local demand,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "obviously, that doesn't help us."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the fact that annual upgrade programs are becoming more and more popular is proving to be a positive for us."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Same happened in a number of countries around the world starting with Canada and Australia,"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "but also many places in Western Europe as well."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Japan grew double digits in terms of units."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "So I think geographically, we are seeing very, very good performance,"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "and the point that I think I need to make when you think about upgrade rates,"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "clearly this issue of the strong dollar doesn't help us."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Could we sell significantly more or significantly faster from an upgrade cycle standpoint in places outside the United States where we've had,"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we've been forced to increase prices by up to 20%, 30%, 40% in certain countries?"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "When you think about the impact that this is having on local demand,"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "obviously, that doesn't help us."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the fact that annual upgrade programs are becoming more and more popular is proving to be a positive for us."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Same happened in a number of countries around the world starting with Canada and Australia,"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "but also many places in Western Europe as well."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I would say as Tim said, when we look at the upgrade rate for -- and we look at it from the standpoint of the new phones, the new generation of phones, the upgrade rate, the percentage of people that have upgraded to the new phone has been very similar to what we've seen last year."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "the more we're able to innovate with new generations of products, clearly that plays a role in the upgrade rate."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "the more money Qualcomm would collect for no reason, and the more expensive it would be therefore for us to innovate."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I don't see it."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "1.6 million unit swing on channel inventory between the years"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "In the year ago quarter, we increased by 900"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": "QoQ",
+      "evidence_text": "In this quarter we decreased by 700"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the numbers indicate that it's not close to that kind of thing"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the customer sat numbers are through the roof"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Literally the customer sat for the iPad Pro is 99%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "A replay of today's call will be available for two weeks as a podcast on the iTunes Store, the webcast on Apple.com/investor, and via telephone."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": ""
+    }
+  ]
+}

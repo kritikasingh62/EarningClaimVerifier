@@ -1,0 +1,3168 @@
+{
+  "ticker": "AAPL",
+  "fiscal_year": 2017,
+  "source": "transcripts",
+  "sec_metrics_source": "AAPL_10K_10Q_merged_filtered_endyear.json",
+  "quarters": {
+    "Q1": {
+      "transcript_file": "2017-Jan-31-AAPL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q1",
+      "call_date": "2017-01-31",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 78.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Co. reported 1Q17 revenues of $78.4b,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 78.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "1. 1Q17 revenue = $78.4b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 17.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "net income of $17.9b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 3.36,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "diluted EPS of $3.36",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:GrossProfit",
+          "kind": "margin",
+          "value": 38.5,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "1Q17 GM = 38.5%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 246.1,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "1Q17-end cash plus marketable securities = $246.1b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+          "kind": "absolute",
+          "value": 5.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "44.3m AAPL shares for $5b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 7.2,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue almost $7.2b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 78.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$78.4b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 548.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Year ago revenue included benefit of one-off $548m patent infringement payment",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 29.8,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "Operating margin 29.8% of revenue",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 17.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Net income $17.9b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 3.36,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "Diluted EPS $3.36",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+          "kind": "absolute",
+          "value": 27.1,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Cash flow from operations $27.1b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 7.2,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $7.2b; all-time record.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 18.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 18% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 43.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "YoverY revenue growth was 43% through first 13 weeks of qtr.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+          "kind": "absolute",
+          "value": 695.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "ASP increased to $695 in Dec. qtr. from $619 in Sept. qtr.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 51.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $51.5-53.5b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 246.1,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$246.1b, sequential increase of $8.5b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 230.2,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$230.2b of this cash or 94% of total was outside US.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 77.1,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$77.1b in term debt",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 10.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$10.5b in commercial paper outstanding",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 3.1,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$3.1b in dividends and equivalents",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 5.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$5b on repurchases of 44.3m AAPL shares",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 6.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$6b ASR",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 201.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$201b of current $250b capital return program",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 144.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$144b in share repurchases",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 1.2,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Includes $1.2b YoverY headwind from FX.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:GrossProfit",
+          "kind": "growth",
+          "value": 39.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "GM 38-39%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 6.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "OpEx $6.5-6.6b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 400.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "OI&E about $400m",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 200000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Assets",
+          "kind": "absolute",
+          "value": 200000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 200000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 18.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 18% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 18.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Services business which was up 18% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 12.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "our Greater China revenue was down 12%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 50.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "50% of our iPhone sales in China were to switchers and first time buyers, which is a very high number that we're pleased with.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 43.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "we grew 43%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 25.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "the dollar has strengthened 25% against the basket of currencies where we do business.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 6.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "6% constant currency increase in revenue in Mainland China",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 1600000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "we had a 1.6 million unit swing on channel inventory between the years",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 43
+    },
+    "Q2": {
+      "transcript_file": "2017-May-02-AAPL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q2",
+      "call_date": "2017-05-02",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 52.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Co. reported 2Q17 revenue of $52.9b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 11.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "net income of $11b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 2.1,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "diluted EPS of $2.10",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:GrossProfit",
+          "kind": "margin",
+          "value": 38.9,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "2Q17 GM = 38.9%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 256.8,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "2Q17-end cash plus marketable securities = $256.8b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 52.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "2. Revenue $52.9b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 5.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Global revenue up 5% YonY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 7.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "For second qtr. in a row, revenue topped $7b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 40.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Revenue grew 40% YoverY to all-time quarterly record.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 25.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Generated over $25b in revenue over past four quarters.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 13.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "revenue down 13% YoverY",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+          "kind": "absolute",
+          "value": 300.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "bringing total to $300b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 52.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$52.9b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 11.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$11b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 2.1,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$2.10",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "growth",
+          "value": 10.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Increased 10% YoverY",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 95.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Among corporate smartphone buyers, iPhone customer satisfaction was 95%.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 79.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Of those planning to purchase smartphones in June quarter, 79% plan to purchase iPhone.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 40.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Grew 40% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 14.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Revenue up 14% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 4.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 14.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Revenue up 14% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 4.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 16.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Visitors to retail and online stores up 16% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 256.8,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$256.8b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 239.6,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$239.6b of this cash, or 93% of total was outside US.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+          "kind": "absolute",
+          "value": 4.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 43.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $43.5-45.5b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 6.6,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "OpEx $6.6-6.7b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 450.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "OI&E about $450m.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 12.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "With over $12b in annual dividend payments,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+          "kind": "absolute",
+          "value": 35.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "1. Board has increased share repurchase authorization by $35b,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+          "kind": "absolute",
+          "value": 175.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "raising it from current $175b level to $210b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareBasic",
+          "kind": "absolute",
+          "value": 0.57,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "Quarterly dividend will grow from $0.57 per share to $0.63 per share.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareBasic",
+          "kind": "growth",
+          "value": 10.5,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "Up 10.5%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 27.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "traffic was up 27% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 160000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "you still have, I think, $160 billion of net cash",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 165000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "I wanted to start off just going back to the 165 million subscriptions",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 165000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "the total number of subscribers is very, very large, obviously less than 165 million",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 150000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "we quoted the same number a quarter ago, and we talked about 150 million",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 40.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "40% growth that Tim mentioned for the App Store on a year-over-year basis.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 27.0,
+          "unit": "percent",
+          "frame": "QoQ",
+          "raw_sentence": "If I try and adjust for the drawdown in inventory and the extra week last quarter, I think sequentially, iPhones declined about 27%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 20.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "which is typically closer to 20%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 1200000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "we reduced channel inventory by 1.2 million units",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 10000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "is it reasonable for us to assume that Apple can sell something on the order of 10 million to 20 million iPhones there next year",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 45
+    },
+    "Q3": {
+      "transcript_file": "2017-Aug-01-AAPL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q3",
+      "call_date": "2017-08-01",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 45.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Co. reported 3Q17 revenue of $45.4b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "3Q17 YoverY revenue growth = 7%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 8.7,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "net income of $8.7b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 1.67,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "diluted EPS of $1.67",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:GrossProfit",
+          "kind": "margin",
+          "value": 38.5,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "3Q17 GM = 38.5%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 261.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "3Q17-end cash plus marketable securities = $261.5b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 45.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$45.4b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 7% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 22.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Grew 22% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 7.3,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$7.3b;",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "growth",
+          "value": 17.0,
+          "unit": "USD/shares",
+          "frame": "YoY",
+          "raw_sentence": "EPS grew 17%.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Revenue grew 7% YoverY",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 45.4,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Revenue $45.4b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 7% YoverY",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 23.7,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "Operating margin 23.7% of revenue",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 8.7,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Net income $8.7b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 1.67,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "Diluted EPS $1.67",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 45.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $45.4b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 7.3,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Set all-time quarterly record of $7.3b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 22.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 22% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 606.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "ASP $606.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 15.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 15% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 46.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up from 46% share a year ago.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Assets",
+          "kind": "absolute",
+          "value": 200.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Among tablets priced over $200, iPad's share was 89%.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 49.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $49-52b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "margin",
+          "value": 38.0,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "GM 37.5-38.0%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 6.7,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "OpEx $6.7-6.8b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 500.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "OI&E about $500m.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 261.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "3Q17-end cash plus marketable securities $261.5b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 246.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$246b of this cash, 94% of total, was outside US.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 11.7,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Returned $11.7b to investors.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 3.4,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Paid $3.4b in dividends and equivalents.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 4.5,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Spent $4.5b on repurchases of 30.4m Co. shares through open market transactions.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 3.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Launched new $3b ASR program, resulting in initial delivery and retirement of 15.6m shares.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 222.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Now completed $222.9b of $300b capital return program, including $158.5b in share repurchases.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:GrossProfit",
+          "kind": "margin",
+          "value": 38.5,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "sequentially from 38.5%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:GrossProfit",
+          "kind": "margin",
+          "value": 38.5,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "38.5%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 6.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "in constant-currency terms, we were actually up 6% in Mainland China",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 6.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "in constant-currency terms, we were actually up 6% in Mainland China",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 50000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "about $50 billion worth of goods and services from U.S.-based suppliers",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 1000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$1 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 200000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$200 million",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 2000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "typically, in the fiscal Q4, Apple builds considerable iPhone channel inventory like 2 million or 3 million units.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 18.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "we're up like 18% year-on-year",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 44
+    },
+    "Q4": {
+      "transcript_file": "2017-Nov-02-AAPL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q4",
+      "call_date": "2017-11-02",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 52.6,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$52.6b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 12.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "12%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 10.7,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$10.7b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 2.07,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$2.07",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "margin",
+          "value": 37.9,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "37.9%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 268.9,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$268.9b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 84.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$84-87b",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 52.6,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $52.6b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 12.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 12% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 2.07,
+          "unit": "USD/shares",
+          "frame": null,
+          "raw_sentence": "Record EPS, $2.07.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 24% YoverY.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesGross",
+          "kind": "growth",
+          "value": 40.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Revenue from emerging markets outside of Greater China was up 40%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 25.0,
+          "unit": "percent",
+          "frame": "QoQ",
+          "raw_sentence": "25% Mac revenue growth",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 75.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "75% YoverY in 4Q",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 52.6,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "revenue $52.6b; record",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 12.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 12% YoverY",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 30.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Grew more than 30% in Mexico, Middle East, Turkey and Central and Eastern Europe",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 20.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Aforementioned results helped to fuel overall growth of over 20% from emerging markets",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 12.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Up 12% YoverY",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 30.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Grew more than 30% in Mexico, Middle East, Turkey and Central and Eastern Europe",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 20.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Aforementioned results helped to fuel overall growth of over 20% from emerging markets",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 84.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue $84-87b.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Dividends",
+          "kind": "absolute",
+          "value": 0.63,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "On 11/02/17, Board of Directors declared cash dividend of $0.63 per share of common stock, payable on 11/16/17 to shareholders of record as of 11/15/17.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 12.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "growth returned to strong double digits, 12% up",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 340.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "You go from $340 -- and this is for iPhone. You go from $349 to above $1,000",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "absolute",
+          "value": 8500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$8.5 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 34.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 34%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 75.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 75%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 16.0,
+          "unit": "percent",
+          "frame": "QoQ",
+          "raw_sentence": "sales grew 16% sequentially",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "sales were up 7% in the September quarter",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:Revenues",
+          "kind": "growth",
+          "value": 16.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "16% versus an average of 7%",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 31
+    }
+  },
+  "all_claims": [
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 78.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Co. reported 1Q17 revenues of $78.4b,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 78.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "1. 1Q17 revenue = $78.4b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 17.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "net income of $17.9b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 3.36,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "diluted EPS of $3.36",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "value": 38.5,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "1Q17 GM = 38.5%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 246.1,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "1Q17-end cash plus marketable securities = $246.1b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "value": 5.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "44.3m AAPL shares for $5b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 7.2,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue almost $7.2b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 78.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$78.4b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 548.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Year ago revenue included benefit of one-off $548m patent infringement payment",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 29.8,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "Operating margin 29.8% of revenue",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 17.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Net income $17.9b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 3.36,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "Diluted EPS $3.36",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "value": 27.1,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Cash flow from operations $27.1b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 7.2,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $7.2b; all-time record.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 18.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 18% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 43.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "YoverY revenue growth was 43% through first 13 weeks of qtr.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "value": 695.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "ASP increased to $695 in Dec. qtr. from $619 in Sept. qtr.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 51.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $51.5-53.5b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 246.1,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$246.1b, sequential increase of $8.5b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 230.2,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$230.2b of this cash or 94% of total was outside US.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 77.1,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$77.1b in term debt",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 10.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$10.5b in commercial paper outstanding",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 3.1,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$3.1b in dividends and equivalents",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 5.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$5b on repurchases of 44.3m AAPL shares",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 6.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$6b ASR",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 201.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$201b of current $250b capital return program",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 144.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$144b in share repurchases",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 1.2,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Includes $1.2b YoverY headwind from FX.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "value": 39.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "GM 38-39%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 6.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "OpEx $6.5-6.6b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 400.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "OI&E about $400m",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 200000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "value": 200000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 200000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "there's a reasonable probability that you may get access to the $200 billion plus of cash that's been locked overseas",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 18.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 18% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 18.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Services business which was up 18% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 12.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "our Greater China revenue was down 12%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 50.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "50% of our iPhone sales in China were to switchers and first time buyers, which is a very high number that we're pleased with.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 43.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "we grew 43%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 25.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "the dollar has strengthened 25% against the basket of currencies where we do business.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 6.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "6% constant currency increase in revenue in Mainland China",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 1600000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "we had a 1.6 million unit swing on channel inventory between the years",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 52.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Co. reported 2Q17 revenue of $52.9b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 11.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "net income of $11b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 2.1,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "diluted EPS of $2.10",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "value": 38.9,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "2Q17 GM = 38.9%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 256.8,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "2Q17-end cash plus marketable securities = $256.8b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 52.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "2. Revenue $52.9b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 5.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Global revenue up 5% YonY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 7.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "For second qtr. in a row, revenue topped $7b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 40.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Revenue grew 40% YoverY to all-time quarterly record.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 25.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Generated over $25b in revenue over past four quarters.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 13.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "revenue down 13% YoverY",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "value": 300.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "bringing total to $300b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 52.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$52.9b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 11.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$11b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 2.1,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$2.10",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "value": 10.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Increased 10% YoverY",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 95.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Among corporate smartphone buyers, iPhone customer satisfaction was 95%.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 79.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Of those planning to purchase smartphones in June quarter, 79% plan to purchase iPhone.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 40.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Grew 40% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 14.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Revenue up 14% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 4.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 14.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Revenue up 14% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 4.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 16.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Visitors to retail and online stores up 16% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 256.8,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$256.8b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 239.6,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$239.6b of this cash, or 93% of total was outside US.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "value": 4.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 43.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $43.5-45.5b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 6.6,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "OpEx $6.6-6.7b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 450.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "OI&E about $450m.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 12.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "With over $12b in annual dividend payments,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "value": 35.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "1. Board has increased share repurchase authorization by $35b,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "value": 175.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "raising it from current $175b level to $210b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:EarningsPerShareBasic",
+      "kind": "absolute",
+      "value": 0.57,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "Quarterly dividend will grow from $0.57 per share to $0.63 per share.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:EarningsPerShareBasic",
+      "kind": "growth",
+      "value": 10.5,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "Up 10.5%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 27.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "traffic was up 27% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 160000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "you still have, I think, $160 billion of net cash",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 165000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "I wanted to start off just going back to the 165 million subscriptions",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 165000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "the total number of subscribers is very, very large, obviously less than 165 million",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 150000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "we quoted the same number a quarter ago, and we talked about 150 million",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 40.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "40% growth that Tim mentioned for the App Store on a year-over-year basis.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 27.0,
+      "unit": "percent",
+      "frame": "QoQ",
+      "raw_sentence": "If I try and adjust for the drawdown in inventory and the extra week last quarter, I think sequentially, iPhones declined about 27%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 20.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "which is typically closer to 20%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 1200000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "we reduced channel inventory by 1.2 million units",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 10000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "is it reasonable for us to assume that Apple can sell something on the order of 10 million to 20 million iPhones there next year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 45.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Co. reported 3Q17 revenue of $45.4b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "3Q17 YoverY revenue growth = 7%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 8.7,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "net income of $8.7b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 1.67,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "diluted EPS of $1.67",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "value": 38.5,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "3Q17 GM = 38.5%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 261.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "3Q17-end cash plus marketable securities = $261.5b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 45.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$45.4b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 7% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 22.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Grew 22% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 7.3,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$7.3b;",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "value": 17.0,
+      "unit": "USD/shares",
+      "frame": "YoY",
+      "raw_sentence": "EPS grew 17%.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Revenue grew 7% YoverY",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 45.4,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Revenue $45.4b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 7% YoverY",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 23.7,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "Operating margin 23.7% of revenue",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 8.7,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Net income $8.7b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 1.67,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "Diluted EPS $1.67",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 45.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $45.4b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 7.3,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Set all-time quarterly record of $7.3b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 22.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 22% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 606.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "ASP $606.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 15.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 15% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 46.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up from 46% share a year ago.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "value": 200.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Among tablets priced over $200, iPad's share was 89%.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 49.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $49-52b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "margin",
+      "value": 38.0,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "GM 37.5-38.0%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 6.7,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "OpEx $6.7-6.8b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 500.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "OI&E about $500m.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 261.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "3Q17-end cash plus marketable securities $261.5b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 246.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$246b of this cash, 94% of total, was outside US.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 11.7,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Returned $11.7b to investors.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 3.4,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Paid $3.4b in dividends and equivalents.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 4.5,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Spent $4.5b on repurchases of 30.4m Co. shares through open market transactions.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 3.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Launched new $3b ASR program, resulting in initial delivery and retirement of 15.6m shares.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 222.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Now completed $222.9b of $300b capital return program, including $158.5b in share repurchases.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "value": 38.5,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "sequentially from 38.5%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "value": 38.5,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "38.5%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 6.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "in constant-currency terms, we were actually up 6% in Mainland China",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 6.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "in constant-currency terms, we were actually up 6% in Mainland China",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 50000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "about $50 billion worth of goods and services from U.S.-based suppliers",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 1000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$1 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 200000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$200 million",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 2000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "typically, in the fiscal Q4, Apple builds considerable iPhone channel inventory like 2 million or 3 million units.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 18.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "we're up like 18% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 52.6,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$52.6b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 12.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "12%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 10.7,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$10.7b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 2.07,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$2.07",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "margin",
+      "value": 37.9,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "37.9%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 268.9,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$268.9b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 84.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$84-87b",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 52.6,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $52.6b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 12.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 12% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 2.07,
+      "unit": "USD/shares",
+      "frame": null,
+      "raw_sentence": "Record EPS, $2.07.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 24% YoverY.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "value": 40.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Revenue from emerging markets outside of Greater China was up 40%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 25.0,
+      "unit": "percent",
+      "frame": "QoQ",
+      "raw_sentence": "25% Mac revenue growth",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 75.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "75% YoverY in 4Q",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 52.6,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "revenue $52.6b; record",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 12.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 12% YoverY",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 30.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Grew more than 30% in Mexico, Middle East, Turkey and Central and Eastern Europe",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 20.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Aforementioned results helped to fuel overall growth of over 20% from emerging markets",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 12.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Up 12% YoverY",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 30.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Grew more than 30% in Mexico, Middle East, Turkey and Central and Eastern Europe",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 20.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Aforementioned results helped to fuel overall growth of over 20% from emerging markets",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 84.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue $84-87b.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "value": 0.63,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "On 11/02/17, Board of Directors declared cash dividend of $0.63 per share of common stock, payable on 11/16/17 to shareholders of record as of 11/15/17.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 12.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "growth returned to strong double digits, 12% up",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 340.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "You go from $340 -- and this is for iPhone. You go from $349 to above $1,000",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "value": 8500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$8.5 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 34.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 34%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 75.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 75%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 16.0,
+      "unit": "percent",
+      "frame": "QoQ",
+      "raw_sentence": "sales grew 16% sequentially",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "sales were up 7% in the September quarter",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "value": 16.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "16% versus an average of 7%",
+      "confidence": "medium"
+    }
+  ],
+  "summary": {
+    "total_claims": 163,
+    "by_sec_metric": {
+      "us-gaap:Revenues": 81,
+      "us-gaap:NetIncomeLoss": 7,
+      "us-gaap:EarningsPerShareDiluted": 11,
+      "us-gaap:GrossProfit": 6,
+      "us-gaap:CashAndCashEquivalentsAtCarryingValue": 25,
+      "us-gaap:CommonStockSharesOutstanding": 4,
+      "us-gaap:OperatingIncomeLoss": 9,
+      "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": 3,
+      "us-gaap:Assets": 2,
+      "us-gaap:SalesRevenueNet": 10,
+      "us-gaap:EarningsPerShareBasic": 2,
+      "us-gaap:CostOfGoodsAndServicesSold": 1,
+      "us-gaap:SalesRevenueServicesGross": 1,
+      "us-gaap:Dividends": 1
+    },
+    "by_quarter": {
+      "Q1": 43,
+      "Q2": 45,
+      "Q3": 44,
+      "Q4": 31
+    }
+  }
+}

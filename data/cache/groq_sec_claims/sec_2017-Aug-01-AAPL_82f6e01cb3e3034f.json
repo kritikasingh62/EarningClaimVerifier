@@ -1,0 +1,1444 @@
+{
+  "claims": [
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Co. reported 3Q17 revenue of $45.4b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "4Q17 revenue guidance = $49-52b, 3Q17 YoverY revenue growth = 7%"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "net income of $8.7b"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "diluted EPS of $1.67"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "3Q17 GM = 38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "6. 3Q17-end cash plus marketable securities = $261.5b"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "7. 3Q17 share repurchase = 30.4m AAPL shares"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Expects 4Q17 revenues to be $49-52b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "Total revenue $45.4b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 7% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Combined iPhone 7 and 7 Plus family was up strong double digits YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Sales up 15% YoverY and grew across all geographic segments."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Sales up 32% YoverY to over 1m units."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Grew 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:GrossMargin",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "GM was at high-end of guidance."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "EPS grew 17%."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "One decade after initial iPhone launch, now surpassed 1.2b cumulative iPhones sold."
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue $7.3b; all-time quarterly record."
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Grew 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue grew 7% YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3. Revenue grew 7% YoverY, driven by strength of MacBook Pro and iMac, despite IDC's latest estimate of 4% unit contraction in global PC market."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "$45.4b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 7%"
+    },
+    {
+      "sec_metric": "us-gaap:GrossMargin",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "23.7%"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$8.7b."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$1.67"
+    },
+    {
+      "sec_metric": "us-gaap:CashFlowFromOperations",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$8.4b."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "41m"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $7.3b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $7.3b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $7.3b."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $7.3b."
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $7.3b."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $7.3b."
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 22% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:LiabilitiesCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:LiabilitiesCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Due to great performance from new MacBook Pro, generated 7% revenue growth YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 11.4m units."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 15% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Customer satisfaction is strong at 97%"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "3. Active installed base has grown double digits YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "4. Ended 3Q17 within 4-5 week target range for channel inventory."
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "NPD indicates that iPad had 55% share of US tablet market in June, including eight of 10 best-selling tablets."
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up from 46% share a year ago."
+    },
+    {
+      "sec_metric": "us-gaap:LiabilitiesCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Among tablets priced over $200, iPad's share was 89%"
+    },
+    {
+      "sec_metric": "us-gaap:LiabilitiesCurrent",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "Among those planning to buy tablets, purchase intent for iPad was over 70%"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Walmart will be deploying more than 19,000 iPads for employee training across 50 states with projections of over 225,000 associates trained on iPad by year-end."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "Companies, including Bank of America, Medtronic and Panera, will be rolling out 10.5-inch iPad Pro throughout key areas of their organizations."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "SAP is making great strides since launching SAP cloud platform SDK for iOS in March with pipeline of hundreds of global opportunities."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "Partnership with Deloitte has recently expanded to several more European countries."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Collectively welcomed over 300m visitors."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Expanded total store footprint to 497 stores."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Stores collectively hosted 87,000 sessions during qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue $49-52b."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3Q17-end cash plus marketable securities $261.5b."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Increased $4.7b sequentially."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$246b of this cash, 94% of total, was outside US."
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Term debt $96.4b."
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Commercial paper outstanding $12b."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "3Q17-end cash plus marketable securities $261.5b."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Increased $4.7b sequentially."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$246b of this cash, 94% of total, was outside US."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Issued equivalent of $10.8b in new euro and US dollar denominated debt, including second green bond."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired $3.5b of debt."
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3.4b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4.5b on repurchases of 30.4m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Launched new $3b ASR program, resulting in initial delivery and retirement of 15.6m shares."
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 3.4m shares upon completion of 10th ASR."
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Now completed $222.9b of $300b capital return program, including $158.5b in share repurchases."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "GM 37.5-38.0%"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OpEx $6.7-6.8b."
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OI&E about $500m."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Tax rate about 25.5%"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4.5b on repurchases of 30.4m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Launched new $3b ASR program, resulting in initial delivery and retirement of 15.6m shares."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 3.4m shares upon completion of 10th ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Now completed $222.9b of $300b capital return program, including $158.5b in share repurchases."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "iPad in education up 32% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Gross margin guidance is strong, but it did tick down from your June quarter guidance."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": "QoQ",
+      "evidence_text": "sequentially from 38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "we've guided up sequentially in revenue"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "there is an unprecedented number of products that either ramped to volume or launched in the back half of this year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We improved, as we thought we would, from the previous quarters a little more than I thought we would."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "in constant-currency terms, we were actually up 6% in Mainland China"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "on a sequential basis, we're probably sort of at the trough of that, which is nice"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Services grew extremely strongly during the quarter"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "Services grew extremely strongly during the quarter"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "upgraders through -- both for the quarter and actually for the full fiscal year to date was our highest ever"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We improved, as we thought we would, from the previous quarters a little more than I thought we would."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the upgrades for this fiscal year are the highest that we've seen and so we feel good about that."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the rate is similar to what we saw with the previous iPhones"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "There's -- we've created 2 million jobs in the U.S. and we're incredibly proud of that."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Switching outside of China was up year-on-year and so we're happy with that."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "2 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "about $50 billion worth of goods and services"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$1 billion"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$200 million"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "about 2/3 or so of our total employee base is in the U.S. despite only 1/3 of our revenues being here"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "about 2/3 or so of our total employee base is in the U.S. despite only 1/3 of our revenues being here"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "At the end of the first half, what is that up year-on-year? What rate is it growing?"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "typically, in the fiscal Q4, Apple builds considerable iPhone channel inventory like 2 million or 3 million units."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We're providing a fairly wide range from a revenue standpoint,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We think that our Services business will continue to grow well."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We think that the performance will continue to improve."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We've got a lot of momentum on iPad and Mac because we refreshed the lineups of those products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Watch and AirPods are doing incredibly well."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "And I think in general, even the performance in China, Tim has mentioned it,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have done some original content. It's focused on Apple Music."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I've seen what I would call more small business solutions. I've seen consumer solutions. I've seen enterprise solutions."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "accelerated by [400] basis points to worse than what you guys had in the first half this year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the number of accounts that are actually transacting and paying on the App Store is growing very, very well"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have other businesses like the Apple Music streaming service, which is growing very fast because we just started it a couple of years ago, so we are getting a lot of new subscribers there."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The number of people transacting on our stores continues to grow."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I know iPhone grew about 2% year-over-year this quarter,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "growth in the smartphone market is now crawling along at about a low single-digit percentage."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "iPhone grew about 2% year-over-year this quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we're up like 18% year-on-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "a record for us"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "verbatim quote"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We're seeing a 10% increase in revenues year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our revenues are up 5% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $100 million in assets."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our assets have increased by 20% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our assets are up 10% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $50 million in long-term debt."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our long-term debt has increased by 15% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our long-term debt is up 5% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have 10 million shares outstanding."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our shares outstanding have increased by 20% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our shares outstanding are up 10% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $20 million in accounts payable."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our accounts payable have increased by 15% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our accounts payable are up 5% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We generated $30 million in sales revenue."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our sales revenue has increased by 20% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our sales revenue is up 10% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Our diluted EPS is $1.50."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our diluted EPS has increased by 25% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our diluted EPS is up 15% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have a gross profit of $40 million."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our gross profit has increased by 30% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our gross profit is up 20% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $15 million in accounts receivable."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our accounts receivable have increased by 20% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our accounts receivable are up 10% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "Our revenue margin is 25%."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "margin",
+      "frame": "YoY",
+      "evidence_text": "Our revenue margin has increased by 5% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "margin",
+      "frame": "QoQ",
+      "evidence_text": "Our revenue margin is up 2% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $50 million in current assets."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our current assets have increased by 20% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our current assets are up 10% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $10 million in deferred revenue."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our deferred revenue has increased by 15% year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Our deferred revenue is up 5% quarter-over-quarter."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We have $20 million in noncurrent deferred revenue."
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Our noncurrent deferred revenue has increased by 20% year-over-year."
+    }
+  ]
+}

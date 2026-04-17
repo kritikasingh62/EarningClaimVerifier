@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Local DB / cache
+db/*.sqlite
+db/*.sqlite-shm
+db/*.sqlite-wal
+data/cache/
+
+# Secrets
+.env
+
+Docs/

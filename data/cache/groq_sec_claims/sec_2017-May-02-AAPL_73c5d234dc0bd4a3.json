@@ -1,0 +1,2044 @@
+{
+  "claims": [
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Co. reported 2Q17 revenue of $52.9b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "2Q17 revenue = $52.9b"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "net income of $11b"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "diluted EPS of $2.10"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": "null",
+      "evidence_text": "2Q17 GM = 38.9%"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "2Q17-end cash plus marketable securities = $256.8b"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "31.1m AAPL shares"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Expects 3Q17 revenue to be $43.5-45.5b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue $52.9b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Global revenue up 5% YonY."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "EPS up 10% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Growth accelerated from Dec. qtr. performance,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "2. Revenue $52.9b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Global revenue up 5% YonY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "2. Revenue $52.9b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Global revenue up 5% YonY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Growth accelerated from Dec. qtr. performance,"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "despite $1b YoverY revenue headwind from FX in March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "sales nearly doubled YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "strong double-digit revenue growth"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "revenue from wearable products in last four quarters was size of Fortune 500 co."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "total store revenue up 27% YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "revenue down 13% YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "revenue declined 32% in 2H of last year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "revenue grew by strong double digits"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "revenue from wearable products in last four quarters was size of Fortune 500 co."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "revenue down 13% YoverY"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "revenue declined 32% in 2H of last year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "revenue grew by strong double digits"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "now has 495 retail locations worldwide"
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "increasing program size by $50b"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "collectively speak 45 languages"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "$52.9b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "Achieved double-digit growth in: 1. US. 2. Canada. 3. Australia. 4. Germany. 5. Netherlands. 6. Turkey. 7. Russia. 8. Mexico."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "26.7% of revenue"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": "null",
+      "evidence_text": "26.7% of revenue"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "$11b"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "$2.10"
+    },
+    {
+      "sec_metric": "us-gaap:CashFlowFromOperations",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "$12.5b"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services: 1. Revenue $7b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "Services: 1. Revenue $7b. 1. Up 18% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "26.7% of revenue"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "26.7% of revenue"
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Long-term Debt, Gross"
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Assets"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Assets, Current"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Accounts Payable, Current"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Accounts Receivable, after Allowance for Credit Loss, Current"
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Inventory, Net"
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Deferred Revenue, Current"
+    },
+    {
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Deferred Revenue, Noncurrent"
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Liabilities"
+    },
+    {
+      "sec_metric": "us-gaap:LiabilitiesCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Liabilities, Current"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Cash and Cash Equivalents, at Carrying Value"
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents"
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Depreciation, Depletion and Amortization, Nonproduction"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Available-for-sale Securities, Current"
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Dividends"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Common Stock, Shares, Outstanding"
+    },
+    {
+      "sec_metric": "dei:EntityCommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Entity Common Stock, Shares Outstanding"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Sales Revenue, Services, Other (Deprecated 2018-01-31)"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Revenue, Net (Deprecated 2018-01-31)"
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Services: 1. Revenue $7b."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "Services: 1. Revenue $7b. 1. Up 18% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Cost of Goods and Services Sold"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Operating Income (Loss)"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "26.7% of revenue"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "margin",
+      "frame": "null",
+      "evidence_text": "26.7% of revenue"
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Depreciation, Depletion and Amortization, Nonproduction"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Available-for-sale Securities, Current"
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Dividends"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Common Stock, Shares, Outstanding"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "App Store established new all-time revenue record."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Grew 40% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "According to App Annie's latest report, App Store continues to be the preferred destination for customer purchases, generating twice the revenue of Google Play during March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set a new enterprise revenue record for March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 14% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "App Store established new all-time revenue record."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Grew 40% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "According to App Annie's latest report, App Store continues to be the preferred destination for customer purchases, generating twice the revenue of Google Play during March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set a new enterprise revenue record for March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 14% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "App Store established new all-time revenue record."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Grew 40% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "According to App Annie's latest report, App Store continues to be the preferred destination for customer purchases, generating twice the revenue of Google Play during March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set a new enterprise revenue record for March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 14% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 4.2m Macs."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 8.9m units."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Saw growth in US and revenue growth worldwide for 9.7-inch and larger iPads over last four quarters."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set a new enterprise revenue record for March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 14% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Recently, Volkswagen selected iPhone as their corporate standard smartphone."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "620,000 employees around the world had the opportunity to enjoy best-in-class mobile experience that iPhone offers."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 4.2m Macs."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 8.9m units."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Saw growth in US and revenue growth worldwide for 9.7-inch and larger iPads over last four quarters."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set a new enterprise revenue record for March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 14% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Recently, Volkswagen selected iPhone as their corporate standard smartphone."
+    },
+    {
+      "sec_metric": "us-gaap:Assets",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "620,000 employees around the world had the opportunity to enjoy best-in-class mobile experience that iPhone offers."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 4.2m Macs."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 4% YoverY vs. zero growth in PC market, according to IDC's latest forecast."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 8.9m units."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Saw growth in US and revenue growth worldwide for 9.7-inch and larger iPads over last four quarters."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set a new enterprise revenue record for March qtr."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 14% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Recently, Volkswagen selected iPhone as their corporate standard smartphone."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Produced great results, with strong revenue growth in all geographic segments and 18% growth overall."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Visitors to retail and online stores up 16% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "2Q17-end cash plus marketable securities $256.8b."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "Increased $10.8b sequentially."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 17.5m shares upon the completion of new $3b ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 17.5m shares upon the completion of new $3b ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 17.5m shares upon the completion of new $3b ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 17.5m shares upon the completion of new $3b ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 17.5m shares upon the completion of new $3b ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Spent $4b on repurchases of 31.1m Co. shares through open market transactions."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 17.5m shares upon the completion of new $3b ASR."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Retired 6.3m shares upon the completion of ninth accelerated share repurchase program in February."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Paid $3b in dividends and equivalents."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "Revenue $43.5-45.5b."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "GM 37.5-38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "OpEx $6.6-6.7b."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "This is effective with next dividend, which the Board has declared on [05/02/17], payable on 05/18/17 to shareholders of record as of 05/15/17."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "raising it from current $175b level to $210b"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "$0.57 per share to $0.63 per share"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "Up 10.5%"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "With over $12b in annual dividend payments"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "return $89b to investors"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "about 12% of market cap at current stock price"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "up 40 basis points sequentially"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "foreign exchange headwind on a sequential basis was 100 basis points"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "cost pressure on the memory side, particularly on NAND and DRAM"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "cost performance on other commodities"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Services mix increases as we go through the year"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "gross margin compression as we go from the March quarter to the June quarter"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "cost pressures on memory will remain"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "expect to offset partially these impacts with other cost efficiencies"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "mix shift towards Services"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We do not expect to be paying more than what we are accruing right now."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter, and we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we expect it to be there for the time being"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're not getting any benefit during the June quarter either"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we didn't get any benefit in our P&L, in our margins during the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "We saw in Q2 the -- a performance that, combined with Q1 and that formed the first half of the year, was much better than what we experienced in the second half of last year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "our retail and online stores did well overall, and in China they grew by 21%, which is an acceleration from what we had seen in the previous quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "traffic was up 27% year-on-year"
+    },
+    {
+      "sec_metric": "us-gaap:Mac revenue",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "The Mac revenue growth was up 20% in China"
+    },
+    {
+      "sec_metric": "us-gaap:Services revenue",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "we had extremely strong Services growth during the quarter in China"
+    },
+    {
+      "sec_metric": "us-gaap:Retail and online stores",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "our retail and online stores did well overall, and in China they grew by 21%, which is an acceleration from what we had seen in the previous quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Retail and online stores",
+      "kind": "absolute",
+      "frame": "QoQ",
+      "evidence_text": "our retail and online stores did well overall, and in China they grew by 21%, which is an acceleration from what we had seen in the previous quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Retail and online stores",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "our retail and online stores did well overall, and in China they grew by 21%, which is an acceleration from what we had seen in the previous quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Retail and online stores",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "traffic was up 27% year-on-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "In fact, I thought it would be similar to the previous quarter and it was."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "In fact, I thought it would be similar to the previous quarter and it was."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "you still have, I think, $160 billion of net cash"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I wanted to start off just going back to the 165 million subscriptions"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "or maybe that was you, Luca"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the total number of subscribers is very, very large, obviously less than 165 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the total number of subscribers is very, very large, obviously less than 165 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a sequential increase of 15 million subscriptions from the December quarter to the March quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we quoted the same number a quarter ago, and we talked about 150 million"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "40% growth that Tim mentioned for the App Store on a year-over-year basis."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the Services revenue keeps growing"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the profit contribution from that is growing"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "The Watch units more than doubled in 6 of our top 10 markets, which is phenomenal growth, particularly in a non-holiday quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "When -- as some people are doing, when you begin to combine that -- combine the Watch revenues with the revenues for AirPods, this was the first -- as you know, this is the first full quarter of shipments for AirPods, but it's still very much in the ramping mode."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "I only glanced at it, and so I haven't had time to study it."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": ""
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "If I try and adjust for the drawdown in inventory and the extra week last quarter, I think sequentially, iPhones declined about 27%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "which is typically closer to 20%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "40 points easier this quarter relative to last quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "the growth rate improved only marginally, I think, when you adjust for the extra week"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "the sequential decline that I referenced"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we grew sell-through on a year-over-year basis"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the year-over-year performance is similar between the quarters"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we reduced channel inventory by 1.2 million units"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the largest absolute number of upgraders ever in any 6-month period in the first half of this year"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the largest absolute number of switchers outside of Greater China in the same period that we've ever seen"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we had very good growth, and it was really propelled by the demand for iPhone 7 Plus, which is growing incredibly fast around the world"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "you had a 4-million-unit channel inventory reduction for the iPhone in the June quarter"
+    },
+    {
+      "sec_metric": "us-gaap:AssetsCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we have fairly consistently reduced channel inventory in the June quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "is it reasonable for us to assume that Apple can sell something on the order of 10 million to 20 million iPhones there next year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "India was growing double digit"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "verbatim quote"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "growth rates are good, really good in -- by most people's expectations"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": ""
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "verbatim quote"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY revenue growth of 10%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ revenue growth of 5%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$10 million in revenue"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$5 million in gross profit"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY gross profit growth of 15%"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ gross profit growth of 10%"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$2 million in net income"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY net income growth of 20%"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ net income growth of 15%"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "100 million shares outstanding"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in shares outstanding of 10%"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in shares outstanding of 5%"
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$50 million in long-term debt"
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in long-term debt of 20%"
+    },
+    {
+      "sec_metric": "us-gaap:DebtInstrumentCarryingAmount",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in long-term debt of 15%"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$10 million in accounts payable"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in accounts payable of 10%"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsPayableCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in accounts payable of 5%"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$20 million in accounts receivable"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in accounts receivable of 15%"
+    },
+    {
+      "sec_metric": "us-gaap:AccountsReceivableNetCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in accounts receivable of 10%"
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$30 million in inventory"
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in inventory of 20%"
+    },
+    {
+      "sec_metric": "us-gaap:InventoryNet",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in inventory of 15%"
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$100 million in liabilities"
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in liabilities of 25%"
+    },
+    {
+      "sec_metric": "us-gaap:Liabilities",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in liabilities of 20%"
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$50 million in cash and cash equivalents"
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in cash and cash equivalents of 30%"
+    },
+    {
+      "sec_metric": "us-gaap:CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in cash and cash equivalents of 25%"
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$10 million in depreciation and amortization"
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in depreciation and amortization of 20%"
+    },
+    {
+      "sec_metric": "us-gaap:DepreciationAndAmortization",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in depreciation and amortization of 15%"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$20 million in available-for-sale securities"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in available-for-sale securities of 25%"
+    },
+    {
+      "sec_metric": "us-gaap:AvailableForSaleSecuritiesCurrent",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "QoQ increase in available-for-sale securities of 20%"
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$30 million in cost of goods and services sold"
+    },
+    {
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "YoY increase in cost of goods and services sold of 20%"
+    }
+  ]
+}

@@ -1,0 +1,1438 @@
+{
+  "claims": [
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "AAPL reported 4Q17 revenues of $52.6b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "4Q17 YoverY revenue growth = 12%"
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "net income of $10.7b"
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$2.07 per diluted share"
+    },
+    {
+      "sec_metric": "us-gaap:GrossMargin",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "37.9%"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$268.9b"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "29.1m shares"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Expects 1Q18 revenue to be $84-87b"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Revenue $52.6b."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 12% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Record EPS, $2.07."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 24% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "Revenue reached an all-time quarterly record of $8.5b in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Well on way to meeting that goal."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "highest annual Mac revenue in Co. history"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "25% Mac revenue growth"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "highest annual Mac revenue in Co. history"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "highest annual Mac revenue in Co. history"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "highest annual Mac revenue in Co. history"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "75% YoverY in 4Q"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "null",
+      "evidence_text": "annual revenue of a Fortune 400 co."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY",
+      "evidence_text": "revenue $52.6b; record."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 12% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "Revenue growth in all product categories for second qtr. in a row."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Revenue up 12% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "With momentum in India, revenue doubled YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Grew more than 30% in Mexico, Middle East, Turkey and Central and Eastern Europe."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Aforementioned results helped to fuel overall growth of over 20% from emerging markets."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "GM 37.9%, at high-end of guidance range."
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "Operating margin, 25% of revenue."
+    },
+    {
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Net income $10.7b."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Diluted EPS $2.07; new Sept. qtr. record."
+    },
+    {
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up 24% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Cash flow from operations $15.7b; strong."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Sold 46.7m, up 3% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Saw double-digit iPhone growth in many emerging markets including mainland China, Middle East, Central and Europe, India and Mexico."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Gained shares also in Canada, Germany, France, Italy, Spain, Sweden and Singapore based on latest estimates from IDC."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Customer satisfaction rating of 97% or higher across all iPhone models."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Purchase intension for iPhone was 69%, more than five times rate of closest competitor with a loyalty rate for current iPhone owners of 95% vs. 53% for next highest brand."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "For corporate smartphone buyers, iOS customer satisfaction was 95% and of those planning to purchase smartphones in Dec. qtr., 80% plan to purchase iPhone; highest score for iPhone in history of survey."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Set all-time quarterly record of $8.5b, up 34% YoverY."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Results included favorable one-time revenue adjustment of $640m."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "On run-rate basis, excluding adjustments, services growth of 24% was terrific and highest that Co. has experienced this year."
+    },
+    {
+      "sec_metric": "us-gaap:SalesRevenueServicesGross",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "App Store set a new all-time record."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue grew strongly in Sept. qtr."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Revenue $84-87b."
+    },
+    {
+      "sec_metric": "us-gaap:GrossMargin",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "GM 38.0-38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:OperatingExpenses",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OpEx 7.65-7.75b."
+    },
+    {
+      "sec_metric": "us-gaap:OperatingIncome",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "OI&E about 600m."
+    },
+    {
+      "sec_metric": "us-gaap:TaxRate",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "Tax rate about 25.5%"
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalents",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$268.9b."
+    },
+    {
+      "sec_metric": "us-gaap:CashAndCashEquivalents",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "Up $7.4b sequentially."
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "spent $4.5b on repurchases of 29.1m shares"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "retired 4.5m shares"
+    },
+    {
+      "sec_metric": "us-gaap:CommonStockSharesOutstanding",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "retired 15.1m shares"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "growth returned to strong double digits, 12% up"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "growth returned to strong double digits, 12% up"
+    },
+    {
+      "sec_metric": "us-gaap:Dividends",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "cash dividend of $0.63 per share of common stock"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We had very strong iPad revenue growth."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double-digit unit growth in iPhone, and both the upgraders and Android switchers were both up on a year-over-year basis during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "We hit all-time revenue records for services and for Mac in the -- for the PRC during the quarter."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the first sales started in Australia"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "you probably sold a fair amount of the lower end, perhaps that was just some of the switchers in China and maybe drove some of the growth in China in terms of market share."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we've got some iPhones that are really great for that market"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we've put our absolutely best thinking that we have here in the guidance that Luca presented"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "you can tell from that, that we're bullish"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we had good success, I would say, through the different iPhones"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we're going to see what happens"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "that's what it feels like to me, and I think it will just get bigger from here"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "you go from $340 -- and this is for iPhone. You go from $349 to above $1,000"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "we've got 3 new iPhones, and people will look at these and decide which one they want"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$8.5 billion, up 34%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 34%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "up 34%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$8.5 billion"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "up 34%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "up 34%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "up 34%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "24%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "24%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "24%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "75%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "75%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "75%"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "double digits"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "double digits"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "double digits"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "the highest growth rate that we've had for services during fiscal '17"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the highest growth rate that we've had for services during fiscal '17"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "the highest growth rate that we've had for services during fiscal '17"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "the highest conversion rates that we've had since the launch of the service"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the highest conversion rates that we've had since the launch of the service"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "the highest conversion rates that we've had since the launch of the service"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "a new all-time record"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "a new all-time record"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "a new all-time record"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "the number of paying accounts continues to grow very strongly"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the number of paying accounts continues to grow very strongly"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "the number of paying accounts continues to grow very strongly"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "we already become the size of a Fortune 100 company"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we already become the size of a Fortune 100 company"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "we already become the size of a Fortune 100 company"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "we set a goal for ourselves to double what we did in fiscal '16"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "we set a goal for ourselves to double what we did in fiscal '16"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "we set a goal for ourselves to double what we did in fiscal '16"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "the trajectory is actually quite positive"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the trajectory is actually quite positive"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "the trajectory is actually quite positive"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "$640 million"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "$640 million"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "a one-off change"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "a one-off change"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "it's a one-off"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "it's a one-off"
+    },
+    {
+      "sec_metric": "us-gaap:Services",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "it's a one-off"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at 8 Plus in particular, to provide a little color there, 8 Plus for that -- for the period of time that we can measure to date, has gotten off to the fastest start of any Plus model."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "If you look at the 8 and 8 Plus, when we launched them, they instantly became our top 2 selling products."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We're not trying to charge the highest price we could get or anything like that."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We price to the sort of the value that we're providing."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We're just trying to price it for what we're delivering."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "We're not trying to charge the highest price we could get or anything like that."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "We have a very good track record of taking those cost structures and, over the life cycle of the product, we are able to bring them down."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "There are situations where the commodities markets are in good shape. There are situations where commodity markets can be a bit out of balance."
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": null,
+      "evidence_text": "We have a case right now around memory pricing, which is a headwind for the time being."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "When we look at our track record over years, I think we found a good balance between unit growth and gross margins and revenue,"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "maximizing gross margin dollars"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "gross margins and revenue"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "India had doubled year-over-year."
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "doubled year-over-year"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "revenues are going to be up high single-digits at the midpoint"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "margin",
+      "frame": null,
+      "evidence_text": "guiding 38% to 38.5%"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "up 35 bps sequentially"
+    },
+    {
+      "sec_metric": "us-gaap:GrossProfit",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the impact of memory on our gross margin is 40 bps sequentially and 110 bps on a year-over-year basis"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "the back half of '17 accelerated by 500 basis points in fiscal '17 versus the first half of '17"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "the number of paying accounts has grown a lot"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "sales grew 16% sequentially"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "sales were up 7% in the September quarter"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": "16% versus an average of 7%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY",
+      "evidence_text": "16% versus an average of 7%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "QoQ",
+      "evidence_text": "16% versus an average of 7%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "growth",
+      "frame": "YoY|QoQ|null",
+      "evidence_text": "16% versus an average of 7%"
+    },
+    {
+      "sec_metric": "us-gaap:Revenues",
+      "kind": "absolute",
+      "frame": null,
+      "evidence_text": ""
+    }
+  ]
+}

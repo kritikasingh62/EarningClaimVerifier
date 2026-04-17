@@ -1,0 +1,3221 @@
+{
+  "ticker": "1018724",
+  "fiscal_year": 2017,
+  "source": "transcripts",
+  "sec_metrics_source": "GOOGL_10K_10Q_merged_filtered_endyear.json",
+  "quarters": {
+    "Q1": {
+      "transcript_file": "2017-Apr-27-GOOGL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q1",
+      "call_date": "2017-04-27",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 24800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Our revenues of $24.8 billion in the first quarter demonstrate our broad-based strength globally, with revenues up 22% year-on-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "In constant currency, our consolidated revenues grew 24% versus 1Q '16.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 24800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$24.8 billion, up 22% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 22.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 22% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 25.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 25% year-over-year to $11.8 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 13.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 13% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 5.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 5% year-over-year to $2 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 16.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 16% in fixed FX terms",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 29.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 29% versus last year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 26.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 26% in fixed FX terms",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 34.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 34% versus last year to $1.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 29.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 29% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 9800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "total cost of revenues, including TAC, which I'll discuss in the Google segment results, were $9.8 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 28.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 28% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 5200000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Other cost of revenues on a consolidated basis was $5.2 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 34.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 34% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 6600000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating income was $6.6 billion, up 23% versus last year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 5400000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "net income was $5.4 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 7.73,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "earnings per diluted share were $7.73",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "derived:CashPlusMarketableSecurities",
+          "kind": "absolute",
+          "value": 92400000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We ended the quarter with cash and marketable securities of $92.4 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 55700000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "of which approximately $55.7 billion or 60% is held overseas",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 17400000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$17.4 billion in the quarter, up 21% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 21.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 21% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 4000000000.0,
+          "unit": "USD",
+          "frame": "QoQ",
+          "raw_sentence": "$4 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 9.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 9% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 3100000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$3.1 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 49.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 49%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 7600000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating income, including the impact of SBC, was $7.6 billion, up 22% versus last year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 855000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Operating loss, including the impact of SBC, was $855 million for the first quarter.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "kind": "absolute",
+          "value": 2400000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Accrued CapEx for the quarter was $2.4 billion, reflecting investments in production equipment, facilities and data center construction.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+          "kind": "absolute",
+          "value": 170000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Other Bets accrued CapEx was $170 million, primarily reflecting a reduced investment in fiber due to the pause in expansion we announced in 3Q '16.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 244000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "For the first quarter, Other Bets revenues were $244 million, primarily generated by Nest, Verily and Fiber.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 1000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Every day, users watch over 1 billion hours on YouTube.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 30000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "There have been more than 30 billion media views in the app to date.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 20000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Chromebooks are now used by more than 20 million teachers and students, and more than 70 million people actively use G Suite for education.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 15000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "we paid out more than $15 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 45.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "local shopping queries have increased by 45%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 70.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "a 70% increase in mobile sales year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 5000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Thanks to our app-installed advertising products, developers have already driven more than 5 billion app downloads",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 39
+    },
+    "Q4": {
+      "transcript_file": "2017-Jan-26-GOOGL.txt",
+      "fiscal_year": 2016,
+      "fp": "Q4",
+      "call_date": "2017-01-26",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 26100000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Our revenue of $26.1 billion in the fourth quarter underscores the continued excellent performance of our businesses globally.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "For the fourth quarter, our consolidated revenue grew 24% in constant currency versus 4Q 2015",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 26100000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Total revenue was $26.1 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 22.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 22% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Holding currency constant to the prior period, our total revenue grew 24% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 12700000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "US revenue was up 24% year-over-year to $12.7 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "UK revenue was up 7% year-over-year to $2.1 [billion]",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 21.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "In fixed FX terms, the UK grew 21% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 11300000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Rest of world revenue was up 24% versus last year to $11.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 26.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "in fixed FX terms revenues were up 26% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 5800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "GAAP other cost of revenues, was $5.8 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "growth",
+          "value": 41.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 41% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 6600000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "On a GAAP basis, operating income was $6.6 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 8500000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Non-GAAP operating income was $8.5 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 25800000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Revenue was $25.8 billion, up 22% year-over-year which includes the impact of FX.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 22.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 22% year-over-year which includes the impact of FX.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 20.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 20% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 7.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 7% year-on-year reflecting the ongoing strong growth of programmatic and AdMob offset by the traditional network businesses.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 62.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 62% year-over-year with strong performance from each of hardware, Play and Cloud.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 18000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Google sites revenue was $18 billion in the quarter, up 20% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 4400000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Network revenue was $4.4 billion, up 7% year-on-year reflecting the ongoing strong growth of programmatic and AdMob offset by the traditional network businesses.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 3400000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Other revenue for Google was $3.4 billion, up 62% year-over-year with strong performance from each of hardware, Play and Cloud.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 4800000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Total traffic acquisition costs were $4.8 billion or 22% of total advertising revenue",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 9500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Operating income excluding SBC was $9.5 billion, up 19% versus last year for an operating margin of 37%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 5300000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Net income was $5.3 billion on a GAAP basis, and $6.6 billion on a non-GAAP basis.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 7.56,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Earnings per diluted share were $7.56 on a GAAP basis, and $9.36 on a non-GAAP basis.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "derived:CashPlusMarketableSecurities",
+          "kind": "absolute",
+          "value": 86300000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We ended the quarter with cash and marketable securities of $86.3 billion, of which approximately $52 billion or 61% is held overseas.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 86300000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$86.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 52000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$52 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "margin",
+          "value": 61.0,
+          "unit": "percent",
+          "frame": null,
+          "raw_sentence": "61%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 52000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$52 billion or 61% is held overseas",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "derived:CashPlusMarketableSecurities",
+          "kind": "absolute",
+          "value": 86300000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We ended the quarter with cash and marketable securities of $86.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 1700000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Google stock-based compensation totaled $1.7 billion for the quarter, up 29% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 7900000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Operating income reflecting the impact of SBC was $7.9 billion, up 17% versus last year, and the operating margin was 31%.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "kind": "absolute",
+          "value": 2900000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Accrued CapEx for the quarter was $2.9 billion, reflecting investments in production equipment, facilities, and data center construction.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+          "kind": "absolute",
+          "value": 1400000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Other Bets accrued CapEx was $1.4 billion for the full year 2016, up 63% over 2015.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 82.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Other Bets revenue was $809 million, up 82% versus 2015 primarily generated by Nest, Fiber and Verily.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+          "kind": "growth",
+          "value": 63.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Other Bets accrued CapEx was $1.4 billion for the full year 2016, up 63% over 2015.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 20.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "For the full year 2016 consolidated revenue grew 20%, and excluding the impact of currency movements grew 24%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "excluding the impact of currency movements grew 24%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 800000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "just this morning, Verily announced that Temasek has agreed to invest $800 million for a minority stake in the Company",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 3000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "more than 3 million paying businesses are now using G Suite to collaborate smartly and securely in the Cloud.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 3000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "more than 3 million paying businesses",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 1000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "developers have created over 1 million Firebase projects",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 70.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "user spend grew by more than 70% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 100000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "they saw more than 100 million views throughout the campaign.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 19000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "they were able to reach 19 million more people across the web,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 320000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Again, Ruth, on that $320 million one-time charge,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 320000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "$320 million one-time charge",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 49
+    },
+    "Q2": {
+      "transcript_file": "2017-Jul-24-GOOGL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q2",
+      "call_date": "2017-07-24",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 26000000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Our revenues of $26 billion in the second quarter demonstrate the ongoing momentum in our businesses with broad-based strength globally.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 21.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Revenues were up 21% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 23.0,
+          "unit": "percent",
+          "frame": "QoQ",
+          "raw_sentence": "up 23% in constant currency",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 26000000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$26 billion, up 21% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 21.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 21% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 23.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 23% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 23.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 23% year-over-year to $12.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 14.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 14% year-over-year, reflecting weakness in the British pound and the euro",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 28.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 28% versus last year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 28.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 28% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 27.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 27% in fixed FX terms",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 12300000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$12.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 8500000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$8.5 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 3700000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$3.7 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 1400000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$1.4 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 10400000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$10.4 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "growth",
+          "value": 28.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 28% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 5300000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$5.3 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "growth",
+          "value": 27.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 27% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 11500000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$11.5 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 8800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$8.8 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 25800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Revenues were $25.8 billion, up 21% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 18400000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Google Sites revenues were $18.4 billion in the quarter, up 20% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 4200000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Network revenues were $4.2 billion, up 13% year-on-year,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 3100000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Other revenues for Google were $3.1 billion, up 42% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 4099999999.9999995,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating income was $4.1 billion.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 6900000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Excluding the impact of the EC fine, operating income was $6.9 billion,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 3500000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Net income was $3.5 billion",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:EarningsPerShareDiluted",
+          "kind": "absolute",
+          "value": 5.01,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "earnings per diluted share were $5.01",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "derived:CashPlusMarketableSecurities",
+          "kind": "absolute",
+          "value": 94700000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We ended the quarter with cash and marketable securities of $94.7 billion,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 57900000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "of which approximately $57.9 billion or 61% is held overseas.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 5100000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Total traffic acquisition costs were $5.1 billion or 22% of total advertising revenues and up 28% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 22.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Total traffic acquisition costs were $5.1 billion or 22% of total advertising revenues and up 28% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 7800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating income, including the impact of SBC, was $7.8 billion, up 12% versus last year, and the operating margin was 30%.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 772000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating loss, including the impact of SBC, was $772 million for the second quarter.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 100000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We are seeing this in the way people interact with the Google Assistant, which is already now available on more than 100 million devices since launching last year,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 1500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "YouTube now has 1.5 billion monthly viewers",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We rolled out new machine learning features in Google Maps, YouTube, Gmail and Google Photos, which now has more than 500 million monthly users",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 1200000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "1.2 billion photos and videos every day",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 1500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "1.5 billion monthly viewers",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 82000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "An incredible 82 billion apps were downloaded from Google Play in the last year alone.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 5000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Today, that number is more than 5 billion.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 5000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Today, our store visits measurement is the largest program of its kind, and we have now measured over 5 billion store visits in 17 countries.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 100000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Every month, Google helps drive 100 billion visits to business websites and creates more than 3 billion direct connections between businesses and their customers.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 21.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 21%",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 5000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "advertisers have measured over 5 billion store visits globally",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 42.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 42% year-on-year",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 47
+    },
+    "Q3": {
+      "transcript_file": "2017-Oct-26-GOOGL.txt",
+      "fiscal_year": 2017,
+      "fp": "Q3",
+      "call_date": "2017-10-26",
+      "claims": [
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 27800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$27.8 billion were up 24% year-on-year and also up 24% in constant currency.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 24% year-on-year and also up 24% in constant currency.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 255000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "We realized a positive currency impact on our revenues year-over-year of $255 million or $64 million after the impact of our hedging program.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 24.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Holding currency constant to the prior period, our total revenues grew 24% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 12900000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "U.S. revenues were $12.9 billion, up 21% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 23.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "EMEA revenues were $9.1 billion, up 23% year-over-year in both reported and fixed FX terms.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 29.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "APAC revenues were $4.2 billion, up 29% versus last year and up 31% in fixed FX terms.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 33.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "Other Americas revenues were $1.5 billion, up 33% year-over-year and up 32% in fixed FX terms.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 11100000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "On a consolidated basis, total cost of revenues, including TAC, which I'll discuss in the Google segment results, were $11.1 billion, up 28% year-on-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+          "kind": "absolute",
+          "value": 5600000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Other cost of revenues on a consolidated basis was $5.6 billion, up 25% year-over-year, primarily driven by Google-related expenses, specifically: costs associated with operating our data centers, including depreciation; content acquisition costs primarily for YouTube; and hardware-related costs.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 7800000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating income was $7.8 billion, up 35% versus last year, and the operating margin was 28%.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:NetIncomeLoss",
+          "kind": "absolute",
+          "value": 6700000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Net income was $6.7 billion, and earnings per diluted share were $9.57.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 3500000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Cash CapEx for the quarter was $3.5 billion.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+          "kind": "absolute",
+          "value": 9900000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Operating cash flow was $9.9 billion with free cash flow of $6.3 billion.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "derived:CashPlusMarketableSecurities",
+          "kind": "absolute",
+          "value": 100100000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "We ended the quarter with cash and marketable securities of $100.1 billion,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 27500000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Revenues were $27.5 billion, up 23% year-over-year.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 23.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 23% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 19700000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "$19.7 billion in the quarter, up 23% year-over-year,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 19700000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Google sites revenues were $19.7 billion in the quarter,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 4300000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Network revenues were $4.3 billion, up 16% year-on-year,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 16.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 16% year-on-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 3400000000.0,
+          "unit": "USD",
+          "frame": "YoY",
+          "raw_sentence": "Other revenues for Google were $3.4 billion, up 40% year-over-year,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 40.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "up 40% year-over-year",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:OperatingIncomeLoss",
+          "kind": "absolute",
+          "value": 8700000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "Operating income, including the impact of SBC, was $8.7 billion,",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "500 million people now use the machine learning smarts of Google Photos to manage and share their memories.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 1000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "The 1 billion-plus people using Google Maps now get thoughtfully contextual information like how to find parking where they are going.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "absolute",
+          "value": 1500000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "YouTube now has over 1.5 billion users.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueServicesNet",
+          "kind": "growth",
+          "value": 70.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "YouTube now gets over 100 million hours of watch time in the living room every day, and that's up 70% in the past year alone.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "growth",
+          "value": 25.0,
+          "unit": "percent",
+          "frame": "YoY",
+          "raw_sentence": "all of which have seen the number of active advertisers grow by 25% or more in the past 12 months.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 24000000000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "In the past 3 years, we have paid out more than $24 billion to our publisher, creator and app developer partners in Asia-Pacific.",
+          "confidence": "medium"
+        },
+        {
+          "sec_metric": "us-gaap:SalesRevenueNet",
+          "kind": "absolute",
+          "value": 7500000.0,
+          "unit": "USD",
+          "frame": null,
+          "raw_sentence": "In India last month, we launched Tez, a mobile payments and commerce app that already has more than 7.5 million users who have made more than 30 million transactions.",
+          "confidence": "medium"
+        }
+      ],
+      "claim_count": 31
+    }
+  },
+  "all_claims": [
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 24800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Our revenues of $24.8 billion in the first quarter demonstrate our broad-based strength globally, with revenues up 22% year-on-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "In constant currency, our consolidated revenues grew 24% versus 1Q '16.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 24800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$24.8 billion, up 22% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 22.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 22% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 25.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 25% year-over-year to $11.8 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 13.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 13% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 5.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 5% year-over-year to $2 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 16.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 16% in fixed FX terms",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 29.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 29% versus last year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 26.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 26% in fixed FX terms",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 34.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 34% versus last year to $1.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 29.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 29% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 9800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "total cost of revenues, including TAC, which I'll discuss in the Google segment results, were $9.8 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 28.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 28% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 5200000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Other cost of revenues on a consolidated basis was $5.2 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 34.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 34% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 6600000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating income was $6.6 billion, up 23% versus last year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 5400000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "net income was $5.4 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 7.73,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "earnings per diluted share were $7.73",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "derived:CashPlusMarketableSecurities",
+      "kind": "absolute",
+      "value": 92400000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We ended the quarter with cash and marketable securities of $92.4 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 55700000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "of which approximately $55.7 billion or 60% is held overseas",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 17400000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$17.4 billion in the quarter, up 21% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 21.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 21% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 4000000000.0,
+      "unit": "USD",
+      "frame": "QoQ",
+      "raw_sentence": "$4 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 9.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 9% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 3100000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$3.1 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 49.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 49%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 7600000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating income, including the impact of SBC, was $7.6 billion, up 22% versus last year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 855000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Operating loss, including the impact of SBC, was $855 million for the first quarter.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+      "kind": "absolute",
+      "value": 2400000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Accrued CapEx for the quarter was $2.4 billion, reflecting investments in production equipment, facilities and data center construction.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "absolute",
+      "value": 170000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Other Bets accrued CapEx was $170 million, primarily reflecting a reduced investment in fiber due to the pause in expansion we announced in 3Q '16.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 244000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "For the first quarter, Other Bets revenues were $244 million, primarily generated by Nest, Verily and Fiber.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 1000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Every day, users watch over 1 billion hours on YouTube.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 30000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "There have been more than 30 billion media views in the app to date.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 20000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Chromebooks are now used by more than 20 million teachers and students, and more than 70 million people actively use G Suite for education.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 15000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "we paid out more than $15 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 45.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "local shopping queries have increased by 45%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 70.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "a 70% increase in mobile sales year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q1",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 5000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Thanks to our app-installed advertising products, developers have already driven more than 5 billion app downloads",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 26100000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Our revenue of $26.1 billion in the fourth quarter underscores the continued excellent performance of our businesses globally.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "For the fourth quarter, our consolidated revenue grew 24% in constant currency versus 4Q 2015",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 26100000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Total revenue was $26.1 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 22.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 22% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Holding currency constant to the prior period, our total revenue grew 24% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 12700000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "US revenue was up 24% year-over-year to $12.7 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "UK revenue was up 7% year-over-year to $2.1 [billion]",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 21.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "In fixed FX terms, the UK grew 21% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 11300000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Rest of world revenue was up 24% versus last year to $11.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 26.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "in fixed FX terms revenues were up 26% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 5800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "GAAP other cost of revenues, was $5.8 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "growth",
+      "value": 41.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 41% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 6600000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "On a GAAP basis, operating income was $6.6 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 8500000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Non-GAAP operating income was $8.5 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 25800000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Revenue was $25.8 billion, up 22% year-over-year which includes the impact of FX.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 22.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 22% year-over-year which includes the impact of FX.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 20.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 20% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 7.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 7% year-on-year reflecting the ongoing strong growth of programmatic and AdMob offset by the traditional network businesses.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 62.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 62% year-over-year with strong performance from each of hardware, Play and Cloud.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 18000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Google sites revenue was $18 billion in the quarter, up 20% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 4400000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Network revenue was $4.4 billion, up 7% year-on-year reflecting the ongoing strong growth of programmatic and AdMob offset by the traditional network businesses.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 3400000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Other revenue for Google was $3.4 billion, up 62% year-over-year with strong performance from each of hardware, Play and Cloud.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 4800000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Total traffic acquisition costs were $4.8 billion or 22% of total advertising revenue",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 9500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Operating income excluding SBC was $9.5 billion, up 19% versus last year for an operating margin of 37%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 5300000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Net income was $5.3 billion on a GAAP basis, and $6.6 billion on a non-GAAP basis.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 7.56,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Earnings per diluted share were $7.56 on a GAAP basis, and $9.36 on a non-GAAP basis.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "derived:CashPlusMarketableSecurities",
+      "kind": "absolute",
+      "value": 86300000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We ended the quarter with cash and marketable securities of $86.3 billion, of which approximately $52 billion or 61% is held overseas.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 86300000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$86.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 52000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$52 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "margin",
+      "value": 61.0,
+      "unit": "percent",
+      "frame": null,
+      "raw_sentence": "61%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 52000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$52 billion or 61% is held overseas",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "derived:CashPlusMarketableSecurities",
+      "kind": "absolute",
+      "value": 86300000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We ended the quarter with cash and marketable securities of $86.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 1700000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Google stock-based compensation totaled $1.7 billion for the quarter, up 29% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 7900000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Operating income reflecting the impact of SBC was $7.9 billion, up 17% versus last year, and the operating margin was 31%.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+      "kind": "absolute",
+      "value": 2900000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Accrued CapEx for the quarter was $2.9 billion, reflecting investments in production equipment, facilities, and data center construction.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:DeferredRevenueNoncurrent",
+      "kind": "absolute",
+      "value": 1400000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Other Bets accrued CapEx was $1.4 billion for the full year 2016, up 63% over 2015.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 82.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Other Bets revenue was $809 million, up 82% versus 2015 primarily generated by Nest, Fiber and Verily.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment",
+      "kind": "growth",
+      "value": 63.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Other Bets accrued CapEx was $1.4 billion for the full year 2016, up 63% over 2015.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 20.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "For the full year 2016 consolidated revenue grew 20%, and excluding the impact of currency movements grew 24%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "excluding the impact of currency movements grew 24%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 800000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "just this morning, Verily announced that Temasek has agreed to invest $800 million for a minority stake in the Company",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 3000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "more than 3 million paying businesses are now using G Suite to collaborate smartly and securely in the Cloud.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 3000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "more than 3 million paying businesses",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 1000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "developers have created over 1 million Firebase projects",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 70.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "user spend grew by more than 70% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 100000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "they saw more than 100 million views throughout the campaign.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 19000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "they were able to reach 19 million more people across the web,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 320000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Again, Ruth, on that $320 million one-time charge,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q4",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 320000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "$320 million one-time charge",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 26000000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Our revenues of $26 billion in the second quarter demonstrate the ongoing momentum in our businesses with broad-based strength globally.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 21.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Revenues were up 21% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 23.0,
+      "unit": "percent",
+      "frame": "QoQ",
+      "raw_sentence": "up 23% in constant currency",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 26000000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$26 billion, up 21% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 21.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 21% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 23.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 23% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 23.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 23% year-over-year to $12.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 14.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 14% year-over-year, reflecting weakness in the British pound and the euro",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 28.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 28% versus last year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 28.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 28% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 27.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 27% in fixed FX terms",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 12300000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$12.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 8500000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$8.5 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 3700000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$3.7 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 1400000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$1.4 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 10400000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$10.4 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "growth",
+      "value": 28.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 28% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 5300000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$5.3 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "growth",
+      "value": 27.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 27% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 11500000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$11.5 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 8800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$8.8 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 25800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Revenues were $25.8 billion, up 21% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 18400000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Google Sites revenues were $18.4 billion in the quarter, up 20% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 4200000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Network revenues were $4.2 billion, up 13% year-on-year,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 3100000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Other revenues for Google were $3.1 billion, up 42% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 4099999999.9999995,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating income was $4.1 billion.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 6900000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Excluding the impact of the EC fine, operating income was $6.9 billion,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 3500000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Net income was $3.5 billion",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:EarningsPerShareDiluted",
+      "kind": "absolute",
+      "value": 5.01,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "earnings per diluted share were $5.01",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "derived:CashPlusMarketableSecurities",
+      "kind": "absolute",
+      "value": 94700000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We ended the quarter with cash and marketable securities of $94.7 billion,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 57900000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "of which approximately $57.9 billion or 61% is held overseas.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 5100000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Total traffic acquisition costs were $5.1 billion or 22% of total advertising revenues and up 28% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 22.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Total traffic acquisition costs were $5.1 billion or 22% of total advertising revenues and up 28% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 7800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating income, including the impact of SBC, was $7.8 billion, up 12% versus last year, and the operating margin was 30%.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 772000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating loss, including the impact of SBC, was $772 million for the second quarter.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 100000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We are seeing this in the way people interact with the Google Assistant, which is already now available on more than 100 million devices since launching last year,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 1500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "YouTube now has 1.5 billion monthly viewers",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We rolled out new machine learning features in Google Maps, YouTube, Gmail and Google Photos, which now has more than 500 million monthly users",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 1200000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "1.2 billion photos and videos every day",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 1500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "1.5 billion monthly viewers",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 82000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "An incredible 82 billion apps were downloaded from Google Play in the last year alone.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 5000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Today, that number is more than 5 billion.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 5000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Today, our store visits measurement is the largest program of its kind, and we have now measured over 5 billion store visits in 17 countries.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 100000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Every month, Google helps drive 100 billion visits to business websites and creates more than 3 billion direct connections between businesses and their customers.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 21.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 21%",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 5000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "advertisers have measured over 5 billion store visits globally",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q2",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 42.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 42% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 27800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$27.8 billion were up 24% year-on-year and also up 24% in constant currency.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 24% year-on-year and also up 24% in constant currency.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 255000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "We realized a positive currency impact on our revenues year-over-year of $255 million or $64 million after the impact of our hedging program.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 24.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Holding currency constant to the prior period, our total revenues grew 24% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 12900000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "U.S. revenues were $12.9 billion, up 21% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 23.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "EMEA revenues were $9.1 billion, up 23% year-over-year in both reported and fixed FX terms.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 29.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "APAC revenues were $4.2 billion, up 29% versus last year and up 31% in fixed FX terms.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 33.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "Other Americas revenues were $1.5 billion, up 33% year-over-year and up 32% in fixed FX terms.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 11100000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "On a consolidated basis, total cost of revenues, including TAC, which I'll discuss in the Google segment results, were $11.1 billion, up 28% year-on-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CostOfGoodsAndServicesSold",
+      "kind": "absolute",
+      "value": 5600000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Other cost of revenues on a consolidated basis was $5.6 billion, up 25% year-over-year, primarily driven by Google-related expenses, specifically: costs associated with operating our data centers, including depreciation; content acquisition costs primarily for YouTube; and hardware-related costs.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 7800000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating income was $7.8 billion, up 35% versus last year, and the operating margin was 28%.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:NetIncomeLoss",
+      "kind": "absolute",
+      "value": 6700000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Net income was $6.7 billion, and earnings per diluted share were $9.57.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 3500000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Cash CapEx for the quarter was $3.5 billion.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:CashAndCashEquivalentsAtCarryingValue",
+      "kind": "absolute",
+      "value": 9900000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Operating cash flow was $9.9 billion with free cash flow of $6.3 billion.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "derived:CashPlusMarketableSecurities",
+      "kind": "absolute",
+      "value": 100100000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "We ended the quarter with cash and marketable securities of $100.1 billion,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 27500000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Revenues were $27.5 billion, up 23% year-over-year.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 23.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 23% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 19700000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "$19.7 billion in the quarter, up 23% year-over-year,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 19700000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Google sites revenues were $19.7 billion in the quarter,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 4300000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Network revenues were $4.3 billion, up 16% year-on-year,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 16.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 16% year-on-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 3400000000.0,
+      "unit": "USD",
+      "frame": "YoY",
+      "raw_sentence": "Other revenues for Google were $3.4 billion, up 40% year-over-year,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 40.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "up 40% year-over-year",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:OperatingIncomeLoss",
+      "kind": "absolute",
+      "value": 8700000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "Operating income, including the impact of SBC, was $8.7 billion,",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "500 million people now use the machine learning smarts of Google Photos to manage and share their memories.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 1000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "The 1 billion-plus people using Google Maps now get thoughtfully contextual information like how to find parking where they are going.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "absolute",
+      "value": 1500000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "YouTube now has over 1.5 billion users.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueServicesNet",
+      "kind": "growth",
+      "value": 70.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "YouTube now gets over 100 million hours of watch time in the living room every day, and that's up 70% in the past year alone.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "growth",
+      "value": 25.0,
+      "unit": "percent",
+      "frame": "YoY",
+      "raw_sentence": "all of which have seen the number of active advertisers grow by 25% or more in the past 12 months.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 24000000000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "In the past 3 years, we have paid out more than $24 billion to our publisher, creator and app developer partners in Asia-Pacific.",
+      "confidence": "medium"
+    },
+    {
+      "_quarter": "Q3",
+      "sec_metric": "us-gaap:SalesRevenueNet",
+      "kind": "absolute",
+      "value": 7500000.0,
+      "unit": "USD",
+      "frame": null,
+      "raw_sentence": "In India last month, we launched Tez, a mobile payments and commerce app that already has more than 7.5 million users who have made more than 30 million transactions.",
+      "confidence": "medium"
+    }
+  ],
+  "summary": {
+    "total_claims": 166,
+    "by_sec_metric": {
+      "us-gaap:SalesRevenueNet": 39,
+      "us-gaap:SalesRevenueServicesNet": 76,
+      "us-gaap:CostOfGoodsAndServicesSold": 10,
+      "us-gaap:OperatingIncomeLoss": 15,
+      "us-gaap:NetIncomeLoss": 4,
+      "us-gaap:EarningsPerShareDiluted": 3,
+      "derived:CashPlusMarketableSecurities": 5,
+      "us-gaap:CashAndCashEquivalentsAtCarryingValue": 9,
+      "us-gaap:PaymentsToAcquirePropertyPlantAndEquipment": 3,
+      "us-gaap:DeferredRevenueNoncurrent": 2
+    },
+    "by_quarter": {
+      "Q1": 39,
+      "Q4": 49,
+      "Q2": 47,
+      "Q3": 31
+    }
+  }
+}
